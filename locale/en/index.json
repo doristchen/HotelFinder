@@ -1,0 +1,26 @@
+{
+    "choose_dest": "__Destination?__",
+    "choose_dest_ssml": [
+        "What is your destination?"
+    ],
+    "dest_retry_ssml": "I didn't recognize your destination.  Please try again",
+
+    "choose_date": "__Check In Date?__",
+    "choose_date_ssml": [
+        "When do you want to check in?"
+    ],
+    "date_retry_ssml": "I didn't recognize the date. Please try again",
+
+    "choose_nights": "__Nights (1 to 10)?__",
+    "choose_nights_ssml": [
+        "How many nights? Say a number between one to ten."
+    ],
+    "nights_retry_ssml": "I didn't recognize the number. Please try again",
+    
+    "search_dest": "Looking for hotel in %s",
+    "search_hotel": "Ok. Searching for Hotels in %s from %s %d, %d to %s %d, %d...",
+    "search_result": "I found in total %d hotels for your dates:",
+
+    "hotel_title": "Welcome to Hotel Finder",
+    "hotel_ssml": "I'm a Hotel Finder."
+}
